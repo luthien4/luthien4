@@ -1,6 +1,6 @@
 ### Hi, I’m Liss ###
 
-After over 15 years experience working on Academical environment, as a teacher, I am discovering my passion for Data Science. And here I build my Data Science playground. Welcome! 
+After over 15 years experience working on Academical environment, as a teacher, I am discovering my passion for Data Science. Here I build my Data Science projects. Welcome! 
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning, Deep Learning... and all related 
 - 📫 How to reach me luthien44@gmail.com
 
