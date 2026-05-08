@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Python · SQL · Machine Learning · Statistics · Data Visualization · Streamlit · Data Engineering Foundations
+  Python | SQL | Machine Learning | Statistics | Data Visualization | Streamlit | Data Engineering Foundations
 </p>
 
 ---
@@ -35,9 +35,23 @@ I am also expanding my skills in **Data Engineering foundations**, including dat
 
 ---
 
+## Featured Project
+
+### Global Internet Usage Dashboard
+
+Interactive Streamlit dashboard for exploring worldwide internet usage patterns from 2000 to 2023.
+
+- **Live app:** [internet-usage-dashboard.streamlit.app](https://internet-usage-dashboard-g8anbw2xknjbpb4jgvee69.streamlit.app/)
+- **GitHub repo:** [github.com/luthien4/internet-usage-dashboard](https://github.com/luthien4/internet-usage-dashboard)
+- **Portfolio page:** [Dashboard Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/dashboard.html)
+
+**Tools:** Python, pandas, Streamlit, Plotly, data cleaning, exploratory analysis, dashboard communication.
+
+---
+
 ## Portfolio Projects
 
-I am currently organizing and polishing my portfolio projects. Main project areas include:
+I am currently organizing and polishing my remaining portfolio projects. Main project areas include:
 
 - **Regression modeling:** car price prediction, Toyota price prediction, traffic volume prediction
 - **Classification modeling:** hotel cancellation prediction, hotel booking demand, used car sales
@@ -47,7 +61,7 @@ I am currently organizing and polishing my portfolio projects. Main project area
 - **Dashboard:** worldwide internet usage dashboard with Streamlit
 - **Data Engineering practice:** upcoming projects focused on SQL databases, ETL workflows, APIs, and reproducible data pipelines
 
-Featured repositories and project pages will be added here as each project is cleaned, documented, and prepared for presentation.
+Additional featured repositories and project pages will be added here as each project is cleaned, documented, and prepared for presentation.
 
 ---
 
