@@ -37,31 +37,37 @@ I am also expanding my skills in **Data Engineering foundations**, including dat
 
 ## Featured Project
 
-### Global Internet Usage Dashboard
+### Hotel Booking Cancellation Prediction
 
-Interactive Streamlit dashboard for exploring worldwide internet usage patterns from 2000 to 2023.
+Classification project predicting hotel booking cancellation risk with a leakage-aware machine learning workflow.
 
-- **Live app:** [internet-usage-dashboard.streamlit.app](https://internet-usage-dashboard-g8anbw2xknjbpb4jgvee69.streamlit.app/)
-- **GitHub repo:** [github.com/luthien4/internet-usage-dashboard](https://github.com/luthien4/internet-usage-dashboard)
-- **Portfolio page:** [Dashboard Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/dashboard.html)
+- **GitHub repo:** [github.com/luthien4/hotel-booking-cancellation-prediction](https://github.com/luthien4/hotel-booking-cancellation-prediction)
+- **Portfolio page:** [Classification Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/cls.html)
+- **Final model:** Random Forest pipeline with ROC-AUC 0.90 and accuracy 0.85
 
-**Tools:** Python, pandas, Streamlit, Plotly, data cleaning, exploratory analysis, dashboard communication.
+**Tools:** Python, pandas, scikit-learn, SMOTE, model evaluation, feature importance, business interpretation.
 
 ---
 
 ## Portfolio Projects
 
-I am currently organizing and polishing my remaining portfolio projects. Main project areas include:
+My current public portfolio includes projects across machine learning, analytics, dashboarding, SQL, and data-engineering foundations.
 
-- **Regression modeling:** car price prediction, Toyota price prediction, traffic volume prediction
-- **Classification modeling:** hotel cancellation prediction, hotel booking demand, used car sales
-- **NLP:** analysis of U.S. mass shooting data
-- **Clustering:** unsupervised learning project
-- **Data cleaning and EDA:** dirty-data cleaning and exploratory analysis projects
-- **Dashboard:** worldwide internet usage dashboard with Streamlit
-- **Data Engineering practice:** upcoming projects focused on SQL databases, ETL workflows, APIs, and reproducible data pipelines
+| Project | Focus | Tools and Methods |
+|---|---|---|
+| [Hotel Booking Cancellation Prediction](https://github.com/luthien4/hotel-booking-cancellation-prediction) | Classification model for hotel cancellation risk using booking behavior, customer context, deposit policy, and stay characteristics. | Python, pandas, scikit-learn, SMOTE, Random Forest, ROC-AUC, feature importance |
+| [Traffic Waiting Time Prediction in Quito](https://github.com/luthien4/traffic-wait-time-prediction-quito) | Regression model predicting taxi traffic waiting time from trip, geographic, temporal, and route-based features. | Python, pandas, scikit-learn, Folium, feature engineering, geospatial analysis, external holdout evaluation |
+| [Motivation-Based Participant Segmentation](https://github.com/luthien4/motivation-based-participant-segmentation) | Unsupervised learning project exploring participant motivation profiles and motivation-category families. | Python, pandas, scikit-learn, K-Means, hierarchical clustering, DBSCAN, PCA, dendrogram interpretation |
+| [Restaurant Inspection Risk & Compliance Analytics](https://github.com/luthien4/restaurant-inspection-risk-analytics) | SQL and data-engineering project analyzing 311k+ Chicago food inspection records from a public API. | Python, pandas, SQLite, SQL aggregation, Socrata API, data validation, pipeline documentation |
+| [Global Internet Usage Dashboard](https://github.com/luthien4/internet-usage-dashboard) | Interactive dashboard for exploring worldwide internet usage patterns from 2000 to 2023. | Python, pandas, Streamlit, Plotly, data preparation, dashboard communication |
 
-Additional featured repositories and project pages will be added here as each project is cleaned, documented, and prepared for presentation.
+Live portfolio pages:
+
+- [Classification Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/cls.html)
+- [Regression Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/reg.html)
+- [Unsupervised Learning Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/unsupervised.html)
+- [SQL Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/sql.html)
+- [Dashboard Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/dashboard.html)
 
 ---
 
@@ -82,7 +88,7 @@ I am building a professional data portfolio that demonstrates:
 
 - **GitHub:** [github.com/luthien4](https://github.com/luthien4)
 - **Portfolio website:** [luthien4.github.io/LissetteDoesWebPortfolio.github.io](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/)
-- **LinkedIn:** [lissette-valdes-valdes-b987651](https://www.linkedin.com/in/lissette-valdes-valdes-b987651/)
+- **LinkedIn:** [linkedin.com/in/lissette-valdes](https://www.linkedin.com/in/lissette-valdes/)
 
 ---
 
