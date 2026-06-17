@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Python | SQL | Machine Learning | Statistics | Data Visualization | Streamlit | Data Engineering Foundations
+  Python | SQL | Power BI | Machine Learning | Statistics | Data Visualization | Data Engineering Foundations
 </p>
 
 ---
@@ -29,13 +29,24 @@ I am also expanding my skills in **Data Engineering foundations**, including dat
 | Programming | Python, SQL, MySQL, Git, GitHub, Jupyter |
 | Python stack | pandas, NumPy, scikit-learn, Matplotlib, Seaborn |
 | Machine learning | Regression, classification, clustering, NLP, model evaluation |
-| Analytics | Data cleaning, exploratory data analysis, feature engineering, visualization |
-| Dashboards and BI | Streamlit, Power BI, Tableau |
-| Data engineering foundations | Databases, ETL/ELT concepts, data pipelines, APIs, data modeling |
+| Analytics | Data cleaning, exploratory data analysis, feature engineering, KPI reporting, variance analysis, visualization |
+| Dashboards and BI | Power BI, Power Query, DAX, Streamlit, Plotly, Tableau |
+| Data engineering foundations | SQLite, databases, ETL/ELT concepts, data pipelines, public APIs, dimensional modeling |
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Hamburg Public Expenditure Dashboard
+
+Power BI dashboard transforming official Hamburg public finance data into executive KPIs, expenditure trends, variance analysis, and interactive category-level reporting.
+
+- **GitHub repo:** [github.com/luthien4/hamburg-public-expenditure-powerbi](https://github.com/luthien4/hamburg-public-expenditure-powerbi)
+- **Portfolio page:** [Dashboard Projects](https://luthien4.github.io/LissetteDoesWebPortfolio.github.io/dashboard.html)
+
+**Tools:** Power BI, Power Query, DAX, data cleaning, dimensional modeling, KPI reporting, variance analysis, and dashboard design.
+
+---
 
 ### Hotel Booking Cancellation Prediction
 
@@ -59,6 +70,7 @@ My current public portfolio includes projects across machine learning, analytics
 | [Traffic Waiting Time Prediction in Quito](https://github.com/luthien4/traffic-wait-time-prediction-quito) | Regression model predicting taxi traffic waiting time from trip, geographic, temporal, and route-based features. | Python, pandas, scikit-learn, Folium, feature engineering, geospatial analysis, external holdout evaluation |
 | [Motivation-Based Participant Segmentation](https://github.com/luthien4/motivation-based-participant-segmentation) | Unsupervised learning project exploring participant motivation profiles and motivation-category families. | Python, pandas, scikit-learn, K-Means, hierarchical clustering, DBSCAN, PCA, dendrogram interpretation |
 | [Restaurant Inspection Risk & Compliance Analytics](https://github.com/luthien4/restaurant-inspection-risk-analytics) | SQL and data-engineering project analyzing 311k+ Chicago food inspection records from a public API. | Python, pandas, SQLite, SQL aggregation, Socrata API, data validation, pipeline documentation |
+| [Hamburg Public Expenditure Dashboard](https://github.com/luthien4/hamburg-public-expenditure-powerbi) | Power BI report for executive KPI reporting, expenditure trends, variance analysis, and interactive category detail. | Power BI, Power Query, DAX, dimensional modeling, KPI reporting, dashboard design |
 | [Global Internet Usage Dashboard](https://github.com/luthien4/internet-usage-dashboard) | Interactive dashboard for exploring worldwide internet usage patterns from 2000 to 2023. | Python, pandas, Streamlit, Plotly, data preparation, dashboard communication |
 
 Live portfolio pages:
